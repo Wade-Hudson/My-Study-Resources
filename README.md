@@ -1,6 +1,6 @@
 # Study Resources:
 
-I used a combination of materials. Professor Messer’s free videos were a lifesaver! His breakdowns made things easier to understand. I also grabbed some practice exams from various sources like and [ITExamstest](https://www.itexamstest.com/comptia/sy0-701-dumps.html) (helped a ton!).
+I used a combination of materials. Professor Messer’s free videos were a lifesaver! His breakdowns made things easier to understand. I also grabbed some practice exams from various sources like and [ITExamstest](https://bit.ly/CompTIA-Practice-test) (helped a ton!).
 
 ## 1. Set a Schedule:
 I’m not the most organized person, but I committed to studying at least an hour or two each day after work. Consistency over cramming!
